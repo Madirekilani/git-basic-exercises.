@@ -1,1 +1,1 @@
-Hellow world, my name is Madire Mmopane. 
+Hellow world, my name is Madire Mmopane. I love exploring and trying new adventures on weekend.
