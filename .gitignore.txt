@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 large-directory-that-should-be-local-only/
+=======
+large-directory-that-should-be-local-only/
+>>>>>>> 8921b66137690346e95d669f2a90052f6d2ddff3
